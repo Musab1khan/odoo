@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Repository Title & Tagline -->
-# 🚀 Odoo Installation Suite
+#  Odoo Installation Suite
 
 ### <i>One-Click Odoo Deployment for Ubuntu Systems</i>
 
@@ -47,9 +47,9 @@ sudo bash odoo-installer.sh
 ---
 
 <!-- Canvas: Problem & Solution -->
-## 🔍 **The Problem We Solve**
+##  **The Problem We Solve**
 
-| **Traditional Installation** 😰 | **Our Solution** 😎 |
+| **Traditional Installation**  | **Our Solution**  |
 |---|---|
 | ❌ 2-3 hours manual setup | ✅ 5 minutes automated |
 | ❌ Dependency hell | ✅ Single command |
@@ -60,32 +60,32 @@ sudo bash odoo-installer.sh
 ---
 
 <!-- Canvas: Features Grid -->
-## ✨ **Key Features**
+##  **Key Features**
 
 <!-- Feature Cards -->
 | Feature | Description | Status |
 |---------|-------------|---------|
-| 🚀 **One-Click Install** | Complete automation from scratch | ✅ Active |
-| 🔒 **Security First** | Production-ready security settings | ✅ Active |
-| 📊 **Latest Odoo** | Always installs newest stable version | ✅ Active |
-| 🐘 **PostgreSQL** | Optimized database configuration | ✅ Active |
-| 📝 **Comprehensive Logs** | Full logging and monitoring | ✅ Active |
-| 🔄 **Auto-Start** | Systemd service with auto-restart | ✅ Active |
-| 🛠️ **Easy Management** | Simple service commands | ✅ Active |
-| 📱 **Web Access** | Instant browser access | ✅ Active |
+|  **One-Click Install** | Complete automation from scratch | ✅ Active |
+|  **Security First** | Production-ready security settings | ✅ Active |
+|  **Latest Odoo** | Always installs newest stable version | ✅ Active |
+|  **PostgreSQL** | Optimized database configuration | ✅ Active |
+|  **Comprehensive Logs** | Full logging and monitoring | ✅ Active |
+|  **Auto-Start** | Systemd service with auto-restart | ✅ Active |
+|  **Easy Management** | Simple service commands | ✅ Active |
+|  **Web Access** | Instant browser access | ✅ Active |
 
 ---
 
 <!-- Canvas: Quick Start Section -->
-## ⚡ **Quick Start Guide**
+##  **Quick Start Guide**
 
-### 📋 Prerequisites
+###  Prerequisites
 - Ubuntu 22.04+ (20.04 also supported)
 - Root/sudo access
 - Internet connection
 - Minimum 2GB RAM, 2 CPU cores
 
-### 🚀 Installation Methods
+###  Installation Methods
 
 #### Method 1: Direct Download (Recommended)
 ```bash
@@ -119,7 +119,7 @@ sudo bash <(curl -s https://raw.githubusercontent.com/Musab1khan/odoo/main/odoo-
 ---
 
 <!-- Canvas: What Happens During Installation -->
-## 🔧 **Installation Process**
+##  **Installation Process**
 
 ```mermaid
 graph TD
@@ -142,9 +142,9 @@ graph TD
 ---
 
 <!-- Canvas: Access Information -->
-## 🌐 **Access Your Odoo**
+##  **Access Your Odoo**
 
-### 🎯 Default Access Details
+###  Default Access Details
 | **Setting** | **Value** |
 |-------------|-----------|
 | **URL** | `http://your-server-ip:8069` |
@@ -153,7 +153,7 @@ graph TD
 | **Admin Email** | Any valid email |
 | **Admin Password** | Your choice |
 
-### 🔗 Quick Links
+###  Quick Links
 - **Database Manager**: `http://localhost:8069/web/database/manager`
 - **Login Page**: `http://localhost:8069/web/login`
 - **Apps Store**: `http://localhost:8069/web#menu_id=1&action=1`
@@ -161,7 +161,7 @@ graph TD
 ---
 
 <!-- Canvas: Management Commands -->
-## 🎮 **Management Dashboard**
+##  **Management Dashboard**
 
 ### Service Control
 ```bash
@@ -199,7 +199,7 @@ sudo -u postgres psql
 ---
 
 <!-- Canvas: Configuration Section -->
-## ⚙️ **Configuration Options**
+##  **Configuration Options**
 
 ### Basic Configuration
 Edit `/etc/odoo.conf`:
@@ -227,9 +227,9 @@ proxy_mode = True
 ---
 
 <!-- Canvas: Troubleshooting -->
-## 🚨 **Troubleshooting Guide**
+##  **Troubleshooting Guide**
 
-### ❌ Common Issues & Solutions
+###  Common Issues & Solutions
 
 | **Problem** | **Solution** |
 |-------------|--------------|
@@ -239,7 +239,7 @@ proxy_mode = True
 | **Service not starting** | Check logs: `sudo journalctl -u odoo` |
 | **Permission errors** | Run: `sudo chown -R odoo:odoo /opt/odoo` |
 
-### 🔍 Debug Commands
+###  Debug Commands
 ```bash
 # Check service status
 sudo systemctl status odoo
@@ -257,7 +257,7 @@ sudo lsof -i :8069
 ---
 
 <!-- Canvas: Performance & Security -->
-## 🔒 **Production Deployment**
+##  **Production Deployment**
 
 ### Security Checklist
 - [ ] Change default passwords
@@ -280,17 +280,17 @@ sudo nano /etc/postgresql/*/main/postgresql.conf
 ---
 
 <!-- Canvas: Contributing -->
-## 🤝 **Contributing**
+##  **Contributing**
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md).
 
-### 🎯 Ways to Contribute
-- 🐛 Report bugs
-- 💡 Suggest features
-- 📝 Improve documentation
-- 🔧 Submit pull requests
+###  Ways to Contribute
+-  Report bugs
+-  Suggest features
+-  Improve documentation
+-  Submit pull requests
 
-### 📋 Development Setup
+###  Development Setup
 ```bash
 git clone https://github.com/Musab1khan/odoo.git
 cd odoo
@@ -303,15 +303,15 @@ git push origin main
 ---
 
 <!-- Canvas: Community & Support -->
-## 💬 **Community & Support**
+##  **Community & Support**
 
-### 🆘 Get Help
-- 📖 [Documentation](https://github.com/Musab1khan/odoo/wiki)
-- 🐛 [Report Issues](https://github.com/Musab1khan/odoo/issues)
-- 💬 [Discussions](https://github.com/Musab1khan/odoo/discussions)
-- 📧 Email: umairwali6@gmail.com
+###  Get Help
+-  [Documentation](https://github.com/Musab1khan/odoo/wiki)
+-  [Report Issues](https://github.com/Musab1khan/odoo/issues)
+-  [Discussions](https://github.com/Musab1khan/odoo/discussions)
+-  Email: umairwali6@gmail.com
 
-### 🌟 Show Your Support
+###  Show Your Support
 Give us a ⭐ if this project helped you!
 
 ---
