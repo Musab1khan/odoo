@@ -1,6 +1,4 @@
 
-
-```markdown
 <!-- GitHub: Musab1khan/odoo -->
 <!-- Professional README Canvas -->
 
