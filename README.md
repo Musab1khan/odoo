@@ -309,7 +309,7 @@ git push origin main
 - 📖 [Documentation](https://github.com/Musab1khan/odoo/wiki)
 - 🐛 [Report Issues](https://github.com/Musab1khan/odoo/issues)
 - 💬 [Discussions](https://github.com/Musab1khan/odoo/discussions)
-- 📧 Email: musab1khan@example.com
+- 📧 Email: umairwali6@gmail.com
 
 ### 🌟 Show Your Support
 Give us a ⭐ if this project helped you!
@@ -321,30 +321,7 @@ Give us a ⭐ if this project helped you!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 **Acknowledgments**
 
-- [Odoo Community](https://www.odoo.com/community)
-- [Ubuntu Team](https://ubuntu.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- All contributors and supporters
-
----
-
-<div align="center">
-
-### ⭐ **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Musab1khan/odoo&type=Date)](https://star-history.com/#Musab1khan/odoo&Date)
-
-### 🔄 **Repository Stats**
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Musab1khan/odoo)
-![GitHub repo size](https://img.shields.io/github/repo-size/Musab1khan/odoo)
-![GitHub language count](https://img.shields.io/github/languages/count/Musab1khan/odoo)
-
-**[⬆ Back to Top](#readme-top)**
-
-</div>
 
 <!-- Footer -->
 ---
